@@ -1,5 +1,3 @@
-<!-- GitHub README in HTML format -->
-
 <h1 align="center">👨‍💻 Poziljonov Abdushukurullo</h1>
 <h3 align="center">🚀 System Administrator · Junior DevOps · Team Lead</h3>
 
