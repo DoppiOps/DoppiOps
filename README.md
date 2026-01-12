@@ -101,8 +101,6 @@
 
 <hr>
 
-<hr>
-
 <h2>✨ Soft Skills</h2>
 <ul>
   <li>🧘 Calm and stress-resistant</li>
